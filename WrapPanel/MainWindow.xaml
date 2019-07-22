@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WrapPanel"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <WrapPanel Orientation="Vertical">
+    <WrapPanel Orientation="Horizontal">
         <Rectangle 
             Fill="Red"
             Height="50"
