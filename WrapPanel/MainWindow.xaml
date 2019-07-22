@@ -6,5 +6,71 @@
         xmlns:local="clr-namespace:WrapPanel"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <WrapPanel></WrapPanel>
+    <WrapPanel Orientation="Vertical">
+        <Rectangle 
+            Fill="Red"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Orange"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Yellow"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Green"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Blue"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Indigo"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Violet"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Red"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Orange"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Yellow"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Green"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Violet"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Red"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Orange"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Yellow"
+            Height="50"
+            Width="50" />
+        <Rectangle 
+            Fill="Green"
+            Height="50"
+            Width="50" />
+
+    </WrapPanel>
 </Window>
